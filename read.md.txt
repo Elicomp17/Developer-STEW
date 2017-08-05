@@ -1,0 +1,1 @@
+This project contains source code that will help beginner programmers understand how to create and access stuctures.
