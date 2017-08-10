@@ -1,1 +1,1 @@
-This project contains source code that will help beginner programmers understand how to create and access stuctures.
+This project contains source code that will help beginner programmers understand how to create and access stuctures. Along with other projects that pertain to the development of basic programming.
